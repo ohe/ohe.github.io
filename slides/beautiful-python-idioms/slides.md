@@ -69,7 +69,7 @@ for i in xrange(len(colors)):
 ```
 
 
-![Maximum FUUUU](/FU.jpg)
+![Maximum FUUUU](FU.jpg)
 
 
 please consider (and use!) the following:
